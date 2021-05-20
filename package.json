@@ -1,0 +1,22 @@
+{
+  "name": "mvc-tech_blog",
+  "version": "1.0.0",
+  "description": "MVC using templating handlebars.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jos23867/MVC-Tech_Blog.git"
+  },
+  "author": "Jose J. Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jos23867/MVC-Tech_Blog/issues"
+  },
+  "homepage": "https://github.com/jos23867/MVC-Tech_Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1"
+  }
+}
