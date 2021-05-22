@@ -1,8 +1,23 @@
 # MVC-Tech_Blog# Tech Blog
+<h1 align="center">Object-Relational Mapping (ORM) : Object-Relational Mapping</h1>
 
+<p align="center">
+
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Guerrero-green)
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/express-orange" />
+    <img src="https://img.shields.io/badge/Sequelize-blue"  />
+    <img src="https://img.shields.io/badge/mySQL-blue"  />
+    <img src="https://img.shields.io/badge/dotenv-green" />
+</p>
 ## Description 
 
-This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+ The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Table of Contents 
 
@@ -23,10 +38,6 @@ Seed DB;
 
 Start Server;     
 `npm start server`     
-
-## Credits
-
-University of Arizona Coding Bootcamp Week 14 Module 14: Object-Relational Mapping.
 
 ## License
 
@@ -54,6 +65,6 @@ SOFTWARE.
 
 Live Deployed Application: [View Application](https://uabc-mvc-tech-blog.herokuapp.com/ "Live Deploy")      
 
-![Screenshot](doc/proof.png?raw=true "Proof of Application")      
+<!-- ![Screenshot](doc/proof.png?raw=true "Proof of Application")       -->
 
 
