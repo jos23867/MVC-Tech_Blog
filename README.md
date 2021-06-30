@@ -1,5 +1,5 @@
 # MVC-Tech_Blog# Tech Blog
-<h1 align="center">Object-Relational Mapping (ORM) : Object-Relational Mapping</h1>
+<h1 align="center">MVC-Tech-Blog</h1>
 
 <p align="center">
 
